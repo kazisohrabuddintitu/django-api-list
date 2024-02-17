@@ -1,3 +1,3 @@
 # django-api-list
 
-All api in api root.
+All api will show in a list api root.
